@@ -2,7 +2,13 @@
 
 ## -1- Generate a TOC
 
-Switch to "author" and type something like generate a TOC on [topic]. 
+Switch to "author" and type something like 
+
+```
+generate a TOC on [topic].
+```
+
+The more context you give here the better, example "Generate TOC on javascript and Azure AI Foundry, should be for beginners, max 15 chapters"
 
 .github/chatmodes/author.chatmode.md will take care of the rest to add key concepts and more.
 
