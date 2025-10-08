@@ -34,7 +34,7 @@ Every chapter MUST include these sections in order:
 ### 3. WRITING STYLE REQUIREMENTS (STRICTLY ENFORCED)
 - **Lead-in paragraphs**: ALL H1/H2 headers must have 1-3 paragraphs before sub-headers, lists, or code
 - **Code presentation**: Show code "little by little" - break down blocks >10-15 lines
-- **Code explanations**: Add bullet points after code using VARIED verbs (implements, provides, ensures, establishes, etc.)
+- **Code explanations**: Add bullet points after code using VARIED verbs (implements, provides, ensures, establishes, etc.). Each explanation bullet should mention the function and the parameters involved and show the code being explained.
 - **Engaging tone**: Conversational yet professional, varied sentence structure
 - **Real-world context**: Connect concepts to practical applications
 - **Progressive complexity**: Start simple, build to advanced concepts
