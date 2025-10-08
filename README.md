@@ -22,6 +22,8 @@ Generate Chapter 1 from the TOC.md
 
 ## -3 Review chapter
 
+NOTE: most of the time the author mode does a fantastic job so you might not even need to run this one.
+
 Switch to "reviewer"
 
 Type the following in the chat (switch out the chapter number as needed):
