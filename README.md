@@ -2,7 +2,7 @@
 
 ## -1- Generate a TOC
 
-Switch to "author" and type something like 
+Switch to "author" mode in droplist for GHCP and type something like 
 
 ```
 generate a TOC on [topic].
@@ -24,7 +24,7 @@ Generate Chapter 1 from the TOC.md
 
 NOTE: most of the time the author mode does a fantastic job so you might not even need to run this one.
 
-Switch to "reviewer"
+Switch to "reviewer" mode in droplist for GHCP
 
 Type the following in the chat (switch out the chapter number as needed):
 
