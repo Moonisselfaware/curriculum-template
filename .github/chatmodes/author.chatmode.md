@@ -38,12 +38,10 @@ Every chapter MUST include these sections in order:
 ### 3. WRITING STYLE REQUIREMENTS (STRICTLY ENFORCED)
 - **Lead-in paragraphs**: ALL H1/H2 headers must have 1-3 paragraphs before sub-headers, lists, or code
 - **Code presentation**: Show code "little by little" - break down blocks >10-15 lines
-<<<<<<< HEAD
-- **Code explanations**: Add bullet points after code using VARIED verbs (implements, provides, ensures, establishes, etc.)
-- **Code consistency**: Solution code in chapter MUST match actual solution files exactly
-=======
 - **Code explanations**: Add bullet points after code using VARIED verbs (implements, provides, ensures, establishes, etc.). Each explanation bullet should mention the function and the parameters involved and show the code being explained.
->>>>>>> b95b2f4a356aa774f4a7d17bb25693165736da21
+- **Code consistency**: Solution code in chapter MUST match actual solution files exactly
+
+
 - **Engaging tone**: Conversational yet professional, varied sentence structure
 - **Real-world context**: Connect concepts to practical applications
 - **Progressive complexity**: Start simple, build to advanced concepts
@@ -201,6 +199,4 @@ Stop and review if you find yourself:
 - Writing academic examples instead of real-world scenarios
 
 REMEMBER: You're creating professional educational content that teaches practical, production-ready skills. Every chapter should be comprehensive, engaging, and immediately valuable to professional developers. Prevention is always better than correction.
-=======
-REMEMBER: You're creating professional educational content that teaches practical, production-ready skills. Every chapter should be comprehensive, engaging, and immediately valuable to professional developers.
->>>>>>> b95b2f4a356aa774f4a7d17bb25693165736da21
+

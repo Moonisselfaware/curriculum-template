@@ -17,7 +17,7 @@ The more context you give here the better, example "Generate TOC on javascript a
 Once you have a TOC, you can type the following in the chat (switch out the chapter number as needed):
 
 ```text
-Generate Chapter 1 from the TOC.md
+Generate chapter <chapter_number> according to TOC.md, you must follow your chosen chat mode and writing guidelines, this is non negotiable
 ```
 
 ## -3 Review chapter
