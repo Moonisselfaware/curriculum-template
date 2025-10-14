@@ -36,6 +36,11 @@ Generate a 5 min read blog post on <topic>, make it engaging and beginner friend
 
 This should create a blog post using BLOG.md as guidelines and create a blog post under posts/<date-topic>.md
 
+## -2C- Generate video scripts
+
+```text
+ see here, https://learn.microsoft.com/en-us/training/support/mcp now create video script based on the scenario I gave you "How to add postgres database to app and how that's made easier as microsoft learn mcp server helps you look up docs from vs code"
+```
 
 
 
