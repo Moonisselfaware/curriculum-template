@@ -12,6 +12,7 @@ When the user requests content creation, automatically determine the content typ
 ### FOR BOOK CHAPTERS (when user mentions "chapter", "book", "curriculum", "course", or educational content)
 - **Primary Guidelines**: Follow BOOK.md for complete chapter structure requirements
 - **Secondary Guidelines**: Use WRITING-GUIDELINES.md for general writing standards
+- **Third Guideline**: Use SAMPLE.md for tone and style reference.
 - **Structure**: Title, Introduction, Learning Objectives, Main Content (4-6 sections), Assignment, Solution, Quiz, Summary
 
 ### FOR BLOG POSTS (when user mentions "blog post", "article", "tutorial", or standalone content)
@@ -19,11 +20,16 @@ When the user requests content creation, automatically determine the content typ
 - **Secondary Guidelines**: Use WRITING-GUIDELINES.md for general writing standards
 - **Structure**: Title, Introduction, Main Content (3-5 sections), Code Examples, Key Takeaways, Conclusion, Resources
 
+### FOR VIDEO SCRIPTS (when user mentions "video script", "video", "screenplay", "script", or video content)
+- **Primary Guidelines**: Follow VIDEO.md for video script structure requirements
+- **Secondary Guidelines**: Use WRITING-GUIDELINES.md for general writing standards
+- **Structure**: Hook, Introduction, Main Content Segments (3-5 parts), Demonstrations, Call-to-Action, Outro
+
 ## MANDATORY WORKFLOW FOR CONTENT CREATION
 
 ### 1. PLANNING AND RESEARCH PHASE (REQUIRED)
 Before writing ANY content:
-- **Identify content type**: Determine if this is a chapter (BOOK.md) or blog post (BLOG.md)
+- **Identify content type**: Determine if this is a chapter (BOOK.md), blog post (BLOG.md), or video script (VIDEO.md)
 - **Read appropriate guidelines**: Study the relevant structure document thoroughly
 - Research the topic thoroughly using available tools
 - Read WRITING-GUIDELINES.md and understand ALL requirements
@@ -43,7 +49,10 @@ Before writing ANY content:
 **For Blog Posts** (follow BLOG.md):
 - Title (H1), Introduction (H2), Main Content Sections (H2), Code Examples/Demos (H2/H3), Key Takeaways (H2), Conclusion (H2), Resources (H2)
 
-**Both content types require**:
+**For Video Scripts** (follow VIDEO.md):
+- Hook (H2), Introduction (H2), Main Content Segments (H2), Demonstrations (H2), Call-to-Action (H2), Outro (H2)
+
+**All content types require**:
 - Logical progression and structure
 - Real-world, production-ready examples
 - Security considerations where applicable
@@ -92,6 +101,13 @@ Before completing any content, verify:
 - ✅ Title promises specific value
 - ✅ Content delivers on title's promise
 - ✅ Conclusion includes clear next steps or call-to-action
+
+**Video Script-Specific (VIDEO.md):**
+- ✅ Hook captures attention within first 10 seconds
+- ✅ Visual cues and timing notes are included
+- ✅ Speaking pace and tone directions are clear
+- ✅ Demonstrations are clearly scripted with setup instructions
+- ✅ Call-to-action is specific and actionable
 
 ## TABLE OF CONTENTS CREATION GUIDELINES (FOR BOOK CHAPTERS ONLY)
 
@@ -244,7 +260,8 @@ Stop and review if you find yourself:
 **ALWAYS REMEMBER:**
 - **For Chapters**: Follow BOOK.md - educational focus with learning objectives, assignments, quizzes
 - **For Blog Posts**: Follow BLOG.md - practical focus with immediate value, takeaways, resources
-- **Both Types**: Use WRITING-GUIDELINES.md for formatting, style, and quality standards
+- **For Video Scripts**: Follow VIDEO.md - engaging visual focus with clear demonstrations, timing, and audience engagement
+- **All Types**: Use WRITING-GUIDELINES.md for formatting, style, and quality standards
 
 REMEMBER: You're creating professional content that teaches practical, production-ready skills. Every piece should be comprehensive, engaging, and immediately valuable to professional developers. Always use the appropriate guidelines for the content type.
 
